@@ -1,2 +1,2 @@
 # interactive-charts
-The new SwiftChart APIs offer enhanced flexibility and interactivity for creating a variety of charts. 
+The new SwiftChart APIs offer developers enhanced flexibility and interactivity in chart creation. These APIs introduce features like interactive elements, pie/donut charts for engaging data display, and scrollable charts for efficient navigation through large data sets. With these improvements, users can interact with charts to gain deeper insights and a more informative view of the data, making the visualization process more dynamic and user-friendly.
